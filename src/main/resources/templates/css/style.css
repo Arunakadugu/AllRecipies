@@ -1,0 +1,11 @@
+.img{
+    height:250px;
+    width:450px;
+}
+.navbar-inverse
+{
+   background-color: green;
+}
+body{
+    background:url(https://images.pexels.com/photos/33067/sunset-sunrise-sun-summer.jpg?w=1260&h=750&auto=compress&cs=tinysrgb);
+}
